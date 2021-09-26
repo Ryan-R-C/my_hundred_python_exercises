@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: Emojipedia
+Version: 0.4.1
+Summary: Emoji data from Emojipedia
+Home-page: https://github.com/benjamincongdon
+Author: Benjamin Congdon
+Author-email: bcongdo2@illinois.edu
+License: MIT
+Keywords: emoji,emojipedia
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Communications :: Chat
+Classifier: Topic :: Text Processing
+Classifier: Topic :: Utilities
+
+UNKNOWN
+
+
